@@ -1,2 +1,18 @@
-# github-classroom-guide
-讓學生知道如何用github classroom
+# github classroom 使用教學
+能看到這行字，代表你已經辦好github帳號，並且受邀進到這裡，接下來要做的事很簡單，就是將你們小組做實驗的Excel檔案，還有之後要做成簡報的素材(如學習單上的實驗裝置圖以及許多畫圖的部分)，上傳到這裡，這樣就不用擔心其他班的人把你們的資料刪光光了(沒錯，有人做過)。
+
+## 如何上傳檔案
+1.在 GitHub 網站上直接點擊「Add file」按鈕
+
+2.選擇「Upload files」上傳文件
+
+3.或選擇「Create new file」創建新文件
+
+4.完成後點擊「Commit changes」提交更改
+
+## 如何下載檔案
+1.在你要下載的檔案上點一下
+
+2.看見右上角有三個點，點一下
+
+3.點選download，完成

@@ -26,17 +26,19 @@
 讓組員掃QRcode，並輸入你們的組名。
 
 ## 待辦事項
-你們需要上網找有關Excel的教學內容(不限文字或影片)，並完成以下任務:
+你們需要上網找有關LibreOffice Calc 的教學內容(不限文字或影片)，並完成以下任務:
 
-- [ ] 將實驗結果輸入至excel中。
+- [ ] 將實驗結果輸入至LibreOffice Calc中。
 
-- [ ] 在儲存格中寫下公式，透過excel的技巧達到批量計算不確定度(理組)或標準差(文組)。
+- [ ] 在儲存格中寫下公式，透過LibreOffice Calc的技巧達到批量計算平均(全年級都要)、不確定度(理組)或標準差(文組)。
 
-- [ ] 將表格中的內容做成x-y散佈圖，並在圖上標記出誤差(不確定度或標準差)。
+- [ ] 將表格中的內容做成x-y散佈圖(x對y平均)，並在圖上標記出誤差(不確定度或標準差)，最終結果應如下圖所示。
+
+![image](https://github.com/XSSH-Research-and-Practice/xssh-research-and-practice-classroom-113-2-research-and-practice-pdf-113-2-github-classroom-guide/blob/main/Screenshot59.png)
 
 - [ ] 在x-y散佈圖上做出最適直線，找到R^2最大且次方低於2次方的方程式，並show出R^2與方程式。
 
 - [ ] 補上x、y軸的單位，還有圖表標題。
 
-- [ ] 將excel存檔，並上傳至此。
+- [ ] 將LibreOffice Calc存檔，並上傳至此。
 

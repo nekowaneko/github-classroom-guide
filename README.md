@@ -51,7 +51,7 @@
 
 - [ ] 將數據依照textbook.ipynb的內容輸入至report.ipynb並執行。
 
-- [ ] debug,debug,還是debug。
+- [ ] 解決一個一個一個的debug。(惱)
 
 - [ ] 理論上會產生散佈圖的pdf檔案，將其從colab上下載後，再上傳至此。
 

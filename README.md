@@ -34,7 +34,7 @@
 
 - [ ] 將表格中的內容做成x-y散佈圖(x對y平均)，並在圖上標記出誤差(不確定度或標準差)，最終結果應如下圖所示。
 
-![image](https://github.com/XSSH-Research-and-Practice/xssh-research-and-practice-classroom-113-2-research-and-practice-pdf-113-2-github-classroom-guide/blob/main/Screenshot59.png)
+![image](./Screenshot59.png)
 
 - [ ] 在x-y散佈圖上做出最適直線，找到R^2最大且次方低於2次方的方程式，並show出R^2與方程式。
 

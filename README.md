@@ -24,7 +24,7 @@
 
 2.看見右上角有三個點，點一下
 
-![猜猜三個點在哪裡](./download_file.png)
+![猜猜三個點在哪裡](./downnlod_file.png)
 
 3.點選download，完成
 

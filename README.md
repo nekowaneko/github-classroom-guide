@@ -11,7 +11,7 @@
 ## 如何上傳檔案至此
 1.在 GitHub 網站上直接點擊「Add file」按鈕
 
-[猜猜 add file 在哪裡](./add_file.png)
+![猜猜 add file 在哪裡](./add_file.png)
 
 2.選擇「Upload files」上傳文件
 
@@ -24,7 +24,7 @@
 
 2.看見右上角有三個點，點一下
 
-[猜猜三個點在哪裡](./download_file.png)
+![猜猜三個點在哪裡](./download_file.png)
 
 3.點選download，完成
 

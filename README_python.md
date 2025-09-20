@@ -5,9 +5,17 @@
 
 - [ ] step 1 : 登入自己的google帳戶，打開google colab。
 
+![image](./colab.png)
+
 - [ ] step 2 : 在github下載textbook.ipynb與report.ipynb，再分別上傳至colab。
 
-- [ ] step 3 : 將數據依照textbook.ipynb的內容輸入至report.ipynb並執行。
+- [ ] step 2.5 : 閱讀一下report.ipynb，才知道要從textbook.ipynb中複製哪些內容。 
+
+- [ ] step 3 : 將數據依照textbook.ipynb的內容輸入至report.ipynb。
+
+- [ ] step 3.5 : 在report.ipynb裡點選執行階段中的全部執行。
+
+![image](./run.png)
 
 - [ ] step 4 : 解決一個一個一個的bug。(惱)
 

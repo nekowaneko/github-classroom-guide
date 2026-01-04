@@ -41,3 +41,4 @@
     plt.show()
 
 ### 執行此段程式碼後，會產生以下圖片:
+[](./plot_error_bar.jpg)

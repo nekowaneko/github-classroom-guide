@@ -46,6 +46,8 @@
 
 ![cal](./matrix%20cal.png)
 
+![multi](./matrix%20multi.png)
+
 ### 以下展示矩陣內積與相乘在python寫法上的差異:
 
     # 此cell我們只操作矩陣內積，想學矩陣相加請自己查資料

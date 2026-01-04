@@ -1,5 +1,9 @@
 # Github classroom 使用教學
 
+## 目錄
+[前言]
+
+## 前言
 根據你們的選擇，點選以下連結來進行數據處理:
 
 1. [選擇 LibreOffice Calc 進行數據處理](./README_calc.md)

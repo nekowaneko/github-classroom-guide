@@ -5,7 +5,7 @@
 1. [選擇 LibreOffice Calc 進行數據處理](./README_calc.md)
 2. [選擇 Python 進行數據處理](./README_python.md)
 
-之後在完成推論與結論的學習單後，即可著手進行上台報告的簡報**pdf**，其規格如[書面報告格式.txt所示](./report_structure.txt)。簡報做好後，**一定**要上傳到此repo。
+之後在完成推論與結論的學習單後，即可著手進行上台報告的簡報**pdf**，其規格如[report_structure.txt所示](./report_structure.txt)。簡報做好後，**一定**要上傳到此repo。
 
 之所以選擇github，是因為可以避免 
 

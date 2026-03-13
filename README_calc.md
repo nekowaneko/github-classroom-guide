@@ -1,7 +1,7 @@
 # 當你用LibreOffice Calc處理數據
 
 ## 數據處理任務
-**你們需要上網找有關LibreOffice Calc 的教學內容(不限文字或影片)，或是參考([tool-box](https://sites.google.com/view/tool-box-r-and-p))並完成以下任務:**
+**你們需要上網找有關LibreOffice Calc 的教學內容(不限文字或影片)，或是參考[tool-box](https://sites.google.com/view/tool-box-r-and-p)並完成以下任務:**
 
 - [ ] step 1 :將實驗結果輸入至LibreOffice Calc中。
 

@@ -11,7 +11,7 @@
 
 - [ ] step 2.5 : 閱讀一下report.ipynb。 
 
-- [ ] step 3 : 將數據依照tool_box的內容輸入至report.ipynb。
+- [ ] step 3 : 將數據依照[探究與實作工具庫](https://sites.google.com/view/tool-box-r-and-p)(建議按右鍵開啟)的內容輸入至report.ipynb。
 
 - [ ] step 3.5 : 在report.ipynb裡點選執行階段中的全部執行。
 

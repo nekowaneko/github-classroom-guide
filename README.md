@@ -18,8 +18,8 @@
 | 教學總入口（有完整圖文引導，先看這個） | [探究與實作工具庫](https://sites.google.com/view/tool-box-r-and-p) |
 | 用 LibreOffice Calc 處理數據的任務清單 | [README_calc.md](./README_calc.md) |
 | 用 Python 處理數據的任務清單 | [README_python.md](./README_python.md) |
-| Python 範例教材（看得懂的完整範例） | [textbook.ipynb](./textbook.ipynb) |
-| Python 作業本（要你自己填的那份） | [report.ipynb](./report.ipynb) |
+| Python 範例教材（給高手看的完整範例） | [textbook.ipynb](./textbook.ipynb) |
+| Python 作業本（要你們填的那份） | [report.ipynb](./report.ipynb) |
 | 上台報告簡報的規格 | [report_structure.txt](./report_structure.txt) |
 
 根據你們的選擇，點選上表的 Calc 或 Python 任務清單來進行數據處理。

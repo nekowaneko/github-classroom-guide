@@ -1,13 +1,13 @@
 # 當你選擇python進行數據處理
 
 ## 數據處理任務
-你們需要閱讀textbook.ipynb的內容，並將其實作於report.ipynb中，最後將你做的report.ipynb與做好的散佈圖上傳至此，我才能確認你們的進度。具體任務如下:
+你們需要閱讀[textbook.ipynb](./textbook.ipynb)的內容，並將其實作於report.ipynb中，最後將你做的report.ipynb與做好的散佈圖放進你們組的共用資料夾，我才能確認你們的進度。具體任務如下:
 
 - [ ] step 1 : 登入自己的google帳戶，打開google colab。
 
 ![image](./colab.png)
 
-- [ ] step 2 : 在github下載report.ipynb，再上傳至colab。
+- [ ] step 2 : 在Classroom的「用Python處理數據」下載report.ipynb，再上傳至colab。
 
 - [ ] step 2.5 : 閱讀一下report.ipynb。 
 
@@ -19,9 +19,9 @@
 
 - [ ] step 4 : 解決一個一個一個的bug。(惱)
 
-- [ ] step 5 : 理論上會產生散佈圖的png檔案，並放在左側的資料夾，將其從colab下載後，再上傳至此repo。
+- [ ] step 5 : 理論上會產生散佈圖的png檔案，並放在左側的資料夾，將其從colab下載後，再放進你們組的共用資料夾。
 
-- [ ] step 6 : 將完成的report.ipynb上傳至此。
+- [ ] step 6 : 將完成的report.ipynb從colab下載後，放進你們組的共用資料夾。
 
 - 結束
 
